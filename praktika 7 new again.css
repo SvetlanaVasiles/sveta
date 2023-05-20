@@ -31,7 +31,7 @@ body {
 }
 .level-2 {
 	animation: animation_fg linear 55s infinite both;
-	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(38).png" 0 100% repeat-x;
+	background: url("https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(38).png") 0 100% repeat-x;
 	z-index: 1;
 	position: absolute;
 	bottom: 0;
@@ -42,7 +42,7 @@ body {
 }
 .level-3 {
 	animation: animation_fg linear 75s infinite both;
-	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(39).png" 0 100% repeat-x;
+	background: url("https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(39).png") 0 100% repeat-x;
 	z-index: 1;
 	position: absolute;
 	bottom: 0;
@@ -53,7 +53,7 @@ body {
 }
 .level-4 {
 	animation: animation_fg linear 95s infinite both;
-	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(41new).png" 0 100% repeat-x;
+	background: url("https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(41new).png") 0 100% repeat-x;
 	z-index: 1;
 	position: absolute;
 	bottom: 0;
@@ -64,7 +64,7 @@ body {
 }
 .level-5 {
 	animation: animation_fg linear 190s infinite both;
-	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(40).png" 0 100% repeat-x;
+	background: url("https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(40).png") 0 100% repeat-x;
 	z-index: 1;
 	position: absolute;
 	bottom: 0;
@@ -74,7 +74,7 @@ body {
 	background-size: auto 336px;
 }
 .layers .layer-1 {
-	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(42).png" 0 100% no-repeat;
+	background: url("https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(42).png") 0 100% no-repeat;
 	z-index: 1;
 	position: absolute;
 	bottom: 100px;
@@ -85,7 +85,7 @@ body {
 	animation: animation_layer-1 linear 10s infinite both;
 }
 .layers .layer-2 {
-	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(43).png" 0 100% no-repeat;
+	background: url("https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(43).png") 0 100% no-repeat;
 	z-index: 1;
 	position: absolute;
 	bottom: 100px;
@@ -96,7 +96,7 @@ body {
 	animation: animation_layer-2 linear 20s infinite both;
 }
 .layers .layer-2 {
-	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(43).png" 0 100% no-repeat;
+	background: url("https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(43).png") 0 100% no-repeat;
 	z-index: 1;
 	position: absolute;
 	bottom: 100px;
