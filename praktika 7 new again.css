@@ -18,7 +18,7 @@ body {
 	background-color: #ad9b6d;
 	transform: translate3d(0, 0, 0);
 }
-.levels .level-1 {
+.level-1 {
 	animation: animation_fg linear 30s infinite both;
 	background: url () 0 100% repeat-x;
 	z-index: 1;
@@ -29,7 +29,7 @@ body {
 	height: 100%;
 	background-size: auto 1024px;
 }
-.levels .level-2 {
+.level-2 {
 	animation: animation_fg linear 55s infinite both;
 	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(38).png" 0 100% repeat-x;
 	z-index: 1;
@@ -40,7 +40,7 @@ body {
 	height: 100%;
 	background-size: auto 1024px;
 }
-.levels .level-3 {
+.level-3 {
 	animation: animation_fg linear 75s infinite both;
 	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(39).png" 0 100% repeat-x;
 	z-index: 1;
@@ -51,7 +51,7 @@ body {
 	height: 100%;
 	background-size: auto 554px;
 }
-.levels .level-4 {
+.level-4 {
 	animation: animation_fg linear 95s infinite both;
 	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(41new).png" 0 100% repeat-x;
 	z-index: 1;
@@ -62,7 +62,7 @@ body {
 	height: 100%;
 	background-size: auto 396px;
 }
-.levels .level-5 {
+.level-5 {
 	animation: animation_fg linear 190s infinite both;
 	background: url"https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/pngwing.com%20(40).png" 0 100% repeat-x;
 	z-index: 1;
