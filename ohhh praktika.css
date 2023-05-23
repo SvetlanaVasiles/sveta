@@ -64,14 +64,14 @@ body {
 }
 .layer-1 {
      animation: animation_fg linear 45s infinite both; 
-	 background: url(https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/grass.png) 0 100% repeat-x;
+	 background: url(https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/grassnew.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 336px;
+	 background-size: auto 154px;
 }
 .object-1 {
      background: url(https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/ghost.png) 0 100% no-repeat;
