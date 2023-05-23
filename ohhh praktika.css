@@ -19,7 +19,7 @@ body {
 	 transform: translate3d(0, 0, 0);
 }
 .layer-5 {
-     animation: animation_fg linear 100s infinite both; 
+     animation: animation_fg linear 200s infinite both; 
 	 background: url(https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/big%20horror%20house.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
@@ -30,7 +30,7 @@ body {
 	 background-size: auto 1024px;
 }
 .layer-4 {
-     animation: animation_fg linear 90s infinite both; 
+     animation: animation_fg linear 190s infinite both; 
 	 background: url(https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/fence.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
@@ -41,7 +41,7 @@ body {
 	 background-size: auto 700px;
 	 }
 	 .layer-3 {
-     animation: animation_fg linear 70s infinite both; 
+     animation: animation_fg linear 170s infinite both; 
 	 background: url(https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/small%20horror%20house.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
@@ -52,7 +52,7 @@ body {
 	 background-size: auto 554px;
 }
 .layer-2 {
-     animation: animation_fg linear 65s infinite both; 
+     animation: animation_fg linear 150s infinite both; 
 	 background: url(https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/hands.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
@@ -82,7 +82,7 @@ body {
 	 width: 100%;
 	 height: 100%;
 	 background-size: auto 512px;
-	 animation: animation_object linear 15s infinite both;
+	 animation: animation_object linear 25s infinite both;
 }
 .object-2 {
      background:  url(https://raw.githubusercontent.com/SvetlanaVasiles/sveta/main/cat.png) 0 100% no-repeat;
@@ -93,7 +93,7 @@ body {
 	 width: 100%;
 	 height: 100%
 	 background-size: auto 300px;
-	 animation: animation_object linear 10s infinite both;
+	 animation: animation_object linear 15s infinite both;
 }
 
 @keyframes animation_fg {
