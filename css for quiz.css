@@ -1,0 +1,42 @@
+<style>
+
+  .title {
+
+	text-align:center;
+
+	font-size:50px;
+
+}
+.correct {
+
+	color:green;
+
+}
+
+.incorrect {
+
+	color:red;
+
+}
+h1.correct, h1.incorrect {
+
+	width:250px;
+
+}
+.box {
+
+  display: flex;
+
+  flex-direction: column;
+  
+  color: purple;
+
+  width: 70%;
+
+  margin: auto;
+
+  border-radius: 10px;
+
+  padding: 1rem;
+
+      }
